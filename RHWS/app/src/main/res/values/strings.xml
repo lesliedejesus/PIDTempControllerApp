@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RHWS</string>
+    <string name="btnCurrentTempDisplay">Current Temperature</string>
+    <string name="btnDesiredTempDisplay">Desired Temperature</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RHapp</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnCurrentTempDisplay">Current Temperature</string>
+    <string name="btnDesiredTempDisplay">Desired Temperature</string>
+    <string name="AdjustTemp">Adjust Temperature up or down</string>
+</resources>
